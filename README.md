@@ -11,7 +11,7 @@ This project is a barebones password codec for the NES game Faxanadu.  To create
 6. demonring (0 or 1)  Do you have the Demons Ring?
 7. elixir (0 or 1)  Do you have an elixir?
 8. magicrod (0 or 1)  Do you have the rod that increases magic power?
-9. pendant (0 or 1)  Do you have the rod that nerfs your sword?
+9. pendant (0 or 1)  Do you have the pendant that nerfs your sword?
 10. blackonyx (0 or 1) Do you have the Black Onyx shield?
 11. events (A list of accomplished feats).  Each value should be 0 or 1.
    - (unknown)
